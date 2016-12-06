@@ -1,2 +1,4 @@
 Nu ga ik even testen of dit ook terug lokaal komt te staan
 En we voegen lokaal iets toe
+ik wijzig nu ook iets in remote op dezelfde regel als de lokale wijziging
+
